@@ -1,0 +1,5 @@
+abc name age sex chengji women
+qq 小红 20 女 90 aa
+ ww 小羊 22 男 79 22
+ ee 小比 21 男 88 33
+ rr 小小 22 那 22 33 
